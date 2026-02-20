@@ -1,6 +1,6 @@
 # Pokedex CLI
 
-A small Go CLI that talks to the PokeAPI and lets you browse locations, explore areas, catch Pokémon, and view your collection. Caching is built in to keep repeated requests fast.
+A Go CLI that talks to the PokeAPI and lets you browse locations, explore areas, catch Pokémon, and view your collection. Caching is built in to keep repeated requests fast.
 
 ## Commands
 
